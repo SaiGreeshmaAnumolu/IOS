@@ -53,7 +53,6 @@ class ProductDescriptionVC: UIViewController {
                 productIV.addGestureRecognizer(doubleTapGesture)
                 productIV.isUserInteractionEnabled = true
             }
-            
             @objc func handleDoubleTap(_ sender: UITapGestureRecognizer) {
                 if sender.state == .recognized {
                     if isFullScreen {
