@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-letícia-rodrigues-13722335-2.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pexels-letícia-rodrigues-13722335-3.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pexels-letícia-rodrigues-13722335-4.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
